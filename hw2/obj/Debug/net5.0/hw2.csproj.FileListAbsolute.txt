@@ -1,0 +1,16 @@
+C:\Users\nkristesiashvili\source\repos\hw2\obj\Debug\net5.0\hw2.csproj.AssemblyReference.cache
+C:\Users\nkristesiashvili\source\repos\hw2\obj\Debug\net5.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkristesiashvili\source\repos\hw2\obj\Debug\net5.0\hw2.AssemblyInfoInputs.cache
+C:\Users\nkristesiashvili\source\repos\hw2\obj\Debug\net5.0\hw2.AssemblyInfo.cs
+C:\Users\nkristesiashvili\source\repos\hw2\obj\Debug\net5.0\hw2.csproj.CoreCompileInputs.cache
+C:\Users\nkristesiashvili\source\repos\hw2\bin\Debug\net5.0\hw2.exe
+C:\Users\nkristesiashvili\source\repos\hw2\bin\Debug\net5.0\hw2.deps.json
+C:\Users\nkristesiashvili\source\repos\hw2\bin\Debug\net5.0\hw2.runtimeconfig.json
+C:\Users\nkristesiashvili\source\repos\hw2\bin\Debug\net5.0\hw2.runtimeconfig.dev.json
+C:\Users\nkristesiashvili\source\repos\hw2\bin\Debug\net5.0\hw2.dll
+C:\Users\nkristesiashvili\source\repos\hw2\bin\Debug\net5.0\ref\hw2.dll
+C:\Users\nkristesiashvili\source\repos\hw2\bin\Debug\net5.0\hw2.pdb
+C:\Users\nkristesiashvili\source\repos\hw2\obj\Debug\net5.0\hw2.dll
+C:\Users\nkristesiashvili\source\repos\hw2\obj\Debug\net5.0\ref\hw2.dll
+C:\Users\nkristesiashvili\source\repos\hw2\obj\Debug\net5.0\hw2.pdb
+C:\Users\nkristesiashvili\source\repos\hw2\obj\Debug\net5.0\hw2.genruntimeconfig.cache
